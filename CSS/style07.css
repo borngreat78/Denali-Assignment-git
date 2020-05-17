@@ -1,0 +1,75 @@
+.nav{
+    color:black;
+    background-color: white;
+    padding: 10px 100px;
+    border: grey;
+}
+.content{
+    background-color: grey;
+    padding-bottom: 20px;
+    background-size: cover;
+    position: absolute;
+    padding: 5px 70px;
+}
+.joe{
+    float: right;
+}
+.pf{
+    margin: 30px 20px;
+    float: left;
+    width: 15%;
+    padding:0px 20px;
+    background-color: white;
+}
+img{
+    width: 200px;
+    height: 150px;
+    
+}
+.kiki{
+    width: 200px;
+    height: 200px;
+    border-radius: 120px;
+}
+.sidexa{
+    border: 10px solid white;
+    width: 820px;
+    padding-top: 10px;
+    margin-top: 30px;
+    float: right;
+    height: 350px;
+    display: inline-block;
+    margin-right: 40px;
+    text-align: left;
+    background-color: white;
+    margin-bottom: 10px;
+}
+.image2{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: 10px;
+}
+pre{
+    margin-right: 10px 120px;
+    display: block;
+    width: 30px;
+}
+.image3{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: 10px;    
+}
+.image4{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: 10px;
+}
+.image5{
+    height: 240px;
+    width: 240px;
+    float: left;
+    margin-left: 10px;
+}
